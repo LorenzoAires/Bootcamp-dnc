@@ -286,5 +286,13 @@ form{
     font-size: 15px;
 }
 
+footer .linhaum{
+    flex-direction: column;
+}
+
+footer .endereço{
+    width: 95%;
+    margin-bottom: 20px;
+}
 
 }
